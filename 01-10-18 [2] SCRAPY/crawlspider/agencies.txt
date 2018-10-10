@@ -1,0 +1,95 @@
+0	:	UN Journal
+1	:	Meetings Coverage
+2	:	Meetings and Events
+3	:	Documents
+4	:	Daily List of Documents
+5	:	Media Alert
+6	:	Webcast
+7	:	GA President
+8	:	SC President
+9	:	ECOSOC President
+10	:	Trusteeship Council
+11	:	International Court of Justice
+12	:	Secretary-General
+13	:	New York
+14	:	Geneva
+15	:	Nairobi
+16	:	Vienna
+17	:	UN System Directory
+18	:	UN System Chart
+19	:	UN Information Centres
+20	:	Emergency information
+21	:	Reporting Wrongdoing
+22	:	Meetings and Events 
+23	:	UN Journal
+24	:	Documents
+25	:	Guidelines for gender-inclusive language
+26	:	Databases 
+27	:	Library
+28	:	UN iLibrary
+29	:	UN Yearbook
+30	:	Bookshop
+31	:	Publications for sale
+32	:	Maps
+33	:	Media Accreditation
+34	:	NGO accreditation at ECOSOC 
+35	:	NGO accreditation at DPI 
+36	:	Visitors’ services
+37	:	Exhibits
+38	:	Procurement
+39	:	Employment
+40	:	Internships
+41	:	Model UN
+42	:	UN Archives
+43	:	UN Audiovisual Library
+44	:	UN Card: 10 Facts
+45	:	How to donate to the UN system
+46	:	UN Charter
+47	:	Universal Declaration of Human Rights
+48	:	Convention on the Rights of the Child 
+49	:	Statute of the International Court of Justice
+50	:	News
+51	:	Press Releases
+52	:	Briefings
+53	:	Spokesperson
+54	:	Audio by Phone 
+55	:	Photos
+56	:	UNIfeed
+57	:	Webcast
+58	:	UNStories
+59	:	UN in Action
+60	:	21st Century
+61	:	Social Media
+62	:	The Essential UN
+63	:	Global Issues
+64	:	Observances
+65	:	Sustainable Development Goals
+66	:	Climate Change
+67	:	UN and Sustainability
+68	:	Democracy
+69	:	Rule of Law
+70	:	Refugees and Migrants
+71	:	TOGETHER
+72	:	Global Health Crises
+73	:	Action to Counter Terrorism
+74	:	Victims of Terrorism
+75	:	Children and Armed Conflict
+76	:	Violence Against Children (SRSG)
+77	:	Sexual Violence in Conflict
+78	:	UNiTE to End Violence Against Women
+79	:	Violence Against Women and Girls (Spotlight Initiative)
+80	:	Preventing Sexual Exploitation and Abuse
+81	:	Prevention of Genocide and the Responsibility to Protect
+82	:	The Rwanda Genocide
+83	:	The Holocaust
+84	:	The Question of Palestine
+85	:	Decolonization
+86	:	Messengers of Peace
+87	:	Secretary-General’s High-level Panel on Digital Cooperation
+88	:	A-Z Site Index
+89	:	Contact
+90	:	Copyright 
+91	:	FAQ
+92	:	Fraud Alert
+93	:	Privacy Notice
+94	:	Terms of Use
