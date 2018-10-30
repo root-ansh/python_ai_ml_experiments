@@ -1,0 +1,135 @@
+Dear Students, this is the project of Week 8 and Week 9. Below are the complete details of this Project.
+So start working on this and you have to submit this project as Mandatory Assignment of Week 9.
+
+
+Instructions -
+1. Project work should be your own work, so any duplicacy in code/files will not be taken for evaluation
+2. As part of this project the numbering of Question is very important. So while answering any question mention
+   the Q. No.
+3. Create a single code file in Jupyter Notebook (.ipynb) format
+4. For answering any Descriptive Question, use the Markdown cell in Jupyter Notebook
+5. Submit the project in a single zip file containing all your files/folders/data etc
+
+As part of our second project we are going to work on Visualizations. Our task is to analyze the data, clean it,
+modify it as and when required and represent it in the form of graphs, charts, plots, which are more appealing to
+users.
+
+For this project we will be exploring data from Developers’ Survey done by stackoverflow.com every year. This data is
+huge consisting of around 1 lac developers’ world-wide and on multiple factors.
+
+As part of this DataSet there are two files -
+>>>>survey_results_schema.csv – It contains list of all the columns and their description
+>>>>survey_results_public.csv – It contains the Survey data corresponding to different columns
+
+Note – As Dataset is very big so use files carefully and as and when required slice and dice the data for easy handling.
+
+
+Task 1 -
+
+A) Import all the required Libraries
+B) Access the Dataset as pandas Dataframes,
+        df_schema – contains the data from the schema file
+        df_survey – contains the data for the survey
+
+C) Explore the df_schema to see what are different columns available and see their description.
+   Write 10 different columns which you find interesting in order to analyze the Developers’ Survey Data and support
+   your answer by telling how these column can be used. Your explanation can be in descriptive form or you can take a
+   step ahead and think in terms of Visuals or even some Model.
+   (To answer this question, you can take separate column as well as combine multiple columns in order to make some
+   understanding. Idea is to think how this data can be used to get some interesting facts about Developers)
+
+   Note – Columns might contain long data, use the below command in order to set max column width for display:
+          >>>>pd.options.display.max_colwidth = 300 (setting column width to 300 chars)
+
+D) Find out how many users took the survey and how many parameters have been stored corresponding to each user?
+   (Data for each user is stored in a separate row) (Hint - Check the number of rows and no. of columns.)
+
+E) Analyze the df_survey dataframe and see what kind of Data is available, its type, and its values for different users
+
+   Analyze 10 different columns from the Dataframe and write their Data Types, different values, most frequent values,
+   min, max, average and explain how you can use it in your analysis (keeping the Data Type and values in mind)
+   (Hint - In order to make any analysis the type of Data available is also taken into consideration and based on that
+    we choose what type of analysis is possible.)
+
+
+
+Task 2 – Distribution along a Single Column
+In this section, we will be taking ConvertedSalary column.
+
+A) What is the data type of ConvertedSalary column? Does it contain categoric or numeric data?
+B) What does ConvertedSalary column store?
+
+Now as you know what this column store and its Data Type, next step is to check whether this column contains any
+null values
+
+C) Write code to Verify whether the ConvertedSalary column contains any null value or not
+D) Based on the output of part (C), remove the rows containing Null values in a separate Dataframe called df_sal_NonNa
+E) Use seaborn library to plot histogram for non-null values of ConvertedSalary column.
+   Use different values of bins and see which gives better representation of results
+
+Plot histogram for df_sal_NonNa having bin size as 30 and 500.Describe the results plotted in the Histogram
+
+F) Create a new Dataframe variable called df_sal_low, to store non-null ConvertedSalary whose value is less than or
+   equal to 250000. Plot histogram for df_sal_low. Describe the results plotted in the Histogram.
+
+G) Plot Salary distribution for both df_sal_NonNa and df_sal_low using a KDE Plot. Describe the results of the KDE plot.
+
+
+Task 3 - Distribution with Multiple Columns
+Geography is very important parameter to analyze distribution along a parameter, for example, we can analyze how salary
+is distributed world-wide.
+
+A) For this task we will plot stripplot and see the distribution of Salary and countries. Plot stripplot keeping
+   ConvertedSalary on the Y-axis and developers' countries on the X-axis. Use df_sal_NonNa.
+
+   What did you see? Which country has the highest Salary and which falls in the lowest salary segment?
+
+B) The plot in section A is not very clear in order to make predictions. So we need to select some countries.
+   Lets take the top 5 countries from where the users’ belong to see their salary distribution.
+   Again plot the stripplot using convertedsalary for the top 5 countries.
+
+   Which are the countries from where most developers who took the survey belong?
+
+   Based on stripplot describe the distribution of Salary among these countries like which country has developers in
+   highest range, which is in lowest range, which country it is distributed evenly.
+
+   (Hint – You can use the value_count() function on the Dataframe with Country column and then sort based on
+    counts(reset_index() may be useful) and then take the top 5 values)
+
+C) Plot the swarmplot for the top 5 countries based on no. of developers for the Salary.(refer above section B for
+   Data)
+   Compare the result of swarmplot with the result of stripplot (in section B). What is the benefit of one over the
+   other.
+
+
+Task 4 – Impact of Education on Salary
+For this we will use df_sal_NonNa dataframe and FormalEducation and ConvertedSalary columns
+
+A) See how Formal Education is related to Salary by displaying in the form of swarmplot
+
+    Describe the result of swarmplot for FormalEducation and ConvertedSalary columns. Formal Education of the developers
+    who fetches salary in highest range, which is in in lowest range, Salary distribution of which education is
+    distributed evenly.
+    (Hint – For testing purposes, you can perform swarmplot on smaller dataset by using sample() function)
+    (Hint – If values on axis are overlapping, use list’s slice method for str as df[‘col’].str[:length])
+
+B)  Next add Employment as third or the hue parameter to see how Formal Education is scattered in terms of
+    Employment Type
+    Describe the result.
+    What is the impact of adding hue on the swarmplot?
+
+
+Task 5 – Boxplot
+Lets now create a boxplot using 'Formal Education and 'Converted Salary'
+What could you make out from the Boxplot? describe it in your words.
+
+
+Task 6 – Pie Chart
+A)  Create a Pie chart to display the distribution of developers based on their Formal Education
+    Display their percentages on the Pie-Chart
+    The respective Formal Education should be displayed outside the circle
+    The title of the graph should be ‘Classification of Developers by their Formal Education’
+
+B)  Create the same Piechart as in Section A) with the following changes
+    Explode the three segments with lowest values
+    Pass in a custom set of colors for different segments
