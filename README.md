@@ -2,24 +2,13 @@
 Attempt 1 at deep learning😁
 
 ## Requirements
-`python3` `jupyter` `numpy` `matplotlib` `ipywidgets`
+`python3` `jupyter` `numpy` `matplotlib` `ipywidgets` `anaconda`
 
 ## Installation
 
 1. Clone this repo.
 ```
 git clone https://github.com/root-ansh/DeepLearningWithpytorch.git
-```
-2. Install dependencies.
-
-With conda:
-```bash
-conda install numpy matplotlib ipywidgets
-```
-With pip:
-```bash
-pip install numpy matplotlib ipywidgets
-jupyter nbextension enable --py widgetsnbextension
 ```
 
 ## Usage  
