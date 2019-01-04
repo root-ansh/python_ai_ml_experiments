@@ -18,8 +18,8 @@ The following project required the following libraries to be installed in users 
 **Step 3** : `cd venturebeat_bot`  
 **Step 4**  `scrapy crawl vb_crawler`  
 **Step 5**  `cd.. `  
-**Step 6**  `jupyter-notebook` 
-**Step 7**  then run all the text boxes of ipynb file from 1st to last, and you will find beautiful visualisations of :
+**Step 6**  `jupyter-notebook`   
+**Step 7**  then run all the text boxes of ipynb file from 1st to last, and you will find beautiful visualisations of :  
     1.  Barchart showing top 20 authors for the given time period.  
     2. A list of tuples showing top 200 words frequently used words for that time.  
 
