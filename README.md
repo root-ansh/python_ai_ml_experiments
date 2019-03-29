@@ -31,8 +31,8 @@ The following project aims to display how the use of scrapy, matplotlib and NLTK
 This helps us in formulating a frequency map of most popular words for that month. we also then build a dataframe and display the data in the form of a bar graph.  
 
 <p align=center>
-  <img src="https://github.com/chaostools/Super-Jarvis/blob/master/pics/sffs1.jpeg" width="250" height 600 />  
-  <img src="https://github.com/chaostools/Super-Jarvis/blob/master/pics/ss2fff.jpeg" width="250" height 600 />
+  <img src="https://pbs.twimg.com/media/Dv8SD7RV4AALYQu.jpg" />  
+  <img src="https://pbs.twimg.com/media/Dv8SD7RUwAAh8sd.jpg"/>
 
 </p>
 
