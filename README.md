@@ -26,13 +26,16 @@ The following project required the following libraries to be installed in users 
 
 
 ### Explaination in detail.
-The following project aims to display how the use of scrapy, matplotlib and NLTK library can be put together to get some meaningful analysis. Here we crawl  around 600+ articles of december 2018 from a tech-news site Venturebeat.com , put them in a large text file, and then read that file using NLTK library to build a hashmap of  unique words, filtering out the non usefult [stopwords](https://en.wikipedia.org/wiki/Stop_words). This helps us in formulating a frequency map of most popular words for that month. we also then build a dataframe and display the data in the form of a bar graph.  
+The following project aims to display how the use of scrapy, matplotlib and NLTK library can be put together to get some meaningful analysis. Here we crawl  around 600+ articles of december 2018 from a tech-news site Venturebeat.com , put them in a large text file, and then read that file using NLTK library to build a hashmap of  unique words, filtering out the non usefult [stopwords](https://en.wikipedia.org/wiki/Stop_words).  
+
+This helps us in formulating a frequency map of most popular words for that month. we also then build a dataframe and display the data in the form of a bar graph.  
 
 <p align=center>
-  <img src="https://github.com/chaostools/Super-Jarvis/blob/master/pics/ss1.jpeg" width="250" height 600 />  
-  <img src="https://github.com/chaostools/Super-Jarvis/blob/master/pics/ss2.jpeg" width="250" height 600 />
+  <img src="https://github.com/chaostools/Super-Jarvis/blob/master/pics/sffs1.jpeg" width="250" height 600 />  
+  <img src="https://github.com/chaostools/Super-Jarvis/blob/master/pics/ss2fff.jpeg" width="250" height 600 />
 
 </p>
 
 Using this data we can analyse that 'Gaming Technology' and its synonyms were the most popular trend in Decemeber 2018. At that time Games like PUBG and Fortnite were gaining mass audience support and tons of revenues, so that's probably why. This data also highlights that the word 'data' and 'infringment', 'piracy' was used a lot of times in articles, probably because of the Congress conference with Google and Facebook and GDPR enforcement.  
+
 More research can be made on how to use this data more effectively and for predictive analysis. Apart from that a seperate frequency map for author names was created and visualised as a bar graph. Tech blogger Kyle L Wiggers has written the most number of articles in december for venturebeat
