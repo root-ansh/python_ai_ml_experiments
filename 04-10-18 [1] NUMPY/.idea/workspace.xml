@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a308db8-e68a-4224-8276-803876caa6bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/basics- array indexing -2, fancy indexing and PANDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PANDAS/basics- array indexing -2, fancy indexing and PANDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics- more on array indexing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-array operations-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ad-array operations-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-array operations-2_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-array operations-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ae-array operations-3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-array operations-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/af-array operations-4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-array operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ac-array operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-create arrays.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/aa-create arrays.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-numpy miscallanous functions-todo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-print arrays.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ab-print arrays.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1553189807">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="8" />
+          <entry key="ipynb" value="56" />
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="5" />
+          <entry key="IPNB" value="56" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="38" />
+          <entry key="csv" value="45" />
+          <entry key="py" value="29413" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="45" />
+          <entry key="Python" value="29451" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PANDAS/an- histograms and SCIKIT.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3128">
+              <caret line="235" column="4" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5372">
+              <caret line="316" selection-start-line="316" selection-end-line="316" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cat</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>weirdo</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/basics-array operations-2_data.ipynb" />
+        <option value="$PROJECT_DIR$/basics-array operations-3.ipynb" />
+        <option value="$PROJECT_DIR$/basics-create arrays.ipynb" />
+        <option value="$PROJECT_DIR$/basics-array operations-4.ipynb" />
+        <option value="$PROJECT_DIR$/image_manipulation.ipynb" />
+        <option value="$PROJECT_DIR$/IMAGE_PROCESSING/fun with cmaps.ipynb" />
+        <option value="$PROJECT_DIR$/IMAGE_PROCESSING/image_manipulation.ipynb" />
+        <option value="$PROJECT_DIR$/basics-shallow and hard copies.ipynb" />
+        <option value="$PROJECT_DIR$/basics- array indexing -2, fancy indexing and PANDA.ipynb" />
+        <option value="$PROJECT_DIR$/PANDAS/new_records.csv" />
+        <option value="$PROJECT_DIR$/PANDAS/basics- array indexing -2, fancy indexing and PANDA.ipynb" />
+        <option value="$PROJECT_DIR$/basics-numpy miscallanous functions.ipynb" />
+        <option value="$PROJECT_DIR$/basics- more on array indexing.ipynb" />
+        <option value="$PROJECT_DIR$/ad-array operations-2.ipynb" />
+        <option value="$PROJECT_DIR$/ae-array operations-3.ipynb" />
+        <option value="$PROJECT_DIR$/af-array operations-4.ipynb" />
+        <option value="$PROJECT_DIR$/aa-create arrays.ipynb" />
+        <option value="$PROJECT_DIR$/PANDAS/ak- array indexing -2, fancy indexing and PANDA.ipynb" />
+        <option value="$PROJECT_DIR$/PANDAS/al - array-indexing 3, boolean indexing.ipynb" />
+        <option value="$PROJECT_DIR$/am- Broadcasting.ipynb" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/am- Broadcasting and concatination.ipynb" />
+        <option value="$PROJECT_DIR$/PANDAS/an- histograms and SCIKIT.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="409" />
+    <option name="y" value="9" />
+    <option name="width" value="912" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="04-10-18 [1] NUMPY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04-10-18 [1] NUMPY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04-10-18 [1] NUMPY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04-10-18 [1] NUMPY" type="462c0819:PsiDirectoryNode" />
+              <item name="IMAGE_PROCESSING" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04-10-18 [1] NUMPY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04-10-18 [1] NUMPY" type="462c0819:PsiDirectoryNode" />
+              <item name="PANDAS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../000HOMEWORK/WEEK6" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anshs\00ANSH_PYTHON\04-10-18 [1] NUMPY\PANDAS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anshs\00ANSH_PYTHON\04-10-18 [1] NUMPY" />
+      <recent name="C:\Users\anshs\00ANSH_PYTHON\04-10-18 [1] NUMPY\PANDAS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="04-10-18 [1] NUMPY" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.temp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="409" y="9" width="912" height="735" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37871853" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.59758204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39896372" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.45768568" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/image_manipulation.ipynb" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/skimage/io/_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="418" column="4" selection-start-line="418" selection-start-column="4" selection-end-line="418" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/pkgs/matplotlib-2.2.2-py36h153e9ff_1/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="5348" column="24" selection-start-line="5348" selection-start-column="24" selection-end-line="5348" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/skimage/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMAGE_PROCESSING/ag-image_manipulation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/skimage/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="258" column="23" selection-start-line="258" selection-start-column="23" selection-end-line="258" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMAGE_PROCESSING/ah-fun with cmaps.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lots_of_data.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_records.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-373">
+          <caret line="3914" column="8" selection-start-line="3914" selection-start-column="8" selection-end-line="3914" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PANDAS/new_records.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmEdu2018.2/system/python_stubs/-313451744/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics-array operations-2_data.ipynb" />
+    <entry file="file://$PROJECT_DIR$/basics-numpy miscallanous functions-todo.ipynb" />
+    <entry file="file://$PROJECT_DIR$/basics- more on array indexing.ipynb" />
+    <entry file="file://$PROJECT_DIR$/basics-numpy miscallanous functions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics-array operations.ipynb" />
+    <entry file="file://$PROJECT_DIR$/basics-create arrays.ipynb" />
+    <entry file="file://$PROJECT_DIR$/ab-print arrays.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ac-array operations.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-array operations-2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ae-array operations-3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aa-create arrays.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/af-array operations-4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai-shallow and hard copies-arrays.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics- array indexing -2, fancy indexing and PANDA.ipynb" />
+    <entry file="file://$PROJECT_DIR$/PANDAS/basics- array indexing -2, fancy indexing and PANDA.ipynb" />
+    <entry file="file://$PROJECT_DIR$/am- Broadcasting.ipynb" />
+    <entry file="file://$PROJECT_DIR$/PANDAS/ak- array indexing -2, fancy indexing and PANDA.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/al- array-indexing 3, boolean indexing.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics-shallow and hard copies-arrays.ipynb" />
+    <entry file="file://$PROJECT_DIR$/basics- more on array indexing-1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/aj- more on array indexing-1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/numpy/random/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PANDAS/al- array-indexing 3, boolean indexing.ipynb" />
+    <entry file="file://$PROJECT_DIR$/am- Broadcasting and concatination.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PANDAS/an- histograms and SCIKIT.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="235" column="4" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5372">
+          <caret line="316" selection-start-line="316" selection-end-line="316" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

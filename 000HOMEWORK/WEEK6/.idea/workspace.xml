@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1a1af61-7b09-44ff-bfc4-eae555448df4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/IMAGE_PROCESSING/fun with cmaps.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/IMAGE_PROCESSING/image_manipulation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/PANDAS/basics- array indexing -2, fancy indexing and PANDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/PANDAS/basics- array indexing -2, fancy indexing and PANDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics- array indexing -2, fancy indexing and PANDA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics- more on array indexing-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics- more on array indexing-1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics- more on array indexing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics-array operations-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/ad-array operations-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics-array operations-2_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics-array operations-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/ae-array operations-3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics-array operations-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/af-array operations-4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics-array operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/ac-array operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics-create arrays.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/aa-create arrays.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics-numpy miscallanous functions-todo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/basics-print arrays.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-10-18 [1] NUMPY/ab-print arrays.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="11766535">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="250" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="250" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assignment6_anshsachdeva.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="364" />
+    <option name="width" value="979" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WEEK6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEEK6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="364" y="0" width="979" height="735" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24893919" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assignment6_anshsachdeva.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

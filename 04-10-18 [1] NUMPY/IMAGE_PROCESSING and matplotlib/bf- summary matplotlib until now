@@ -1,0 +1,42 @@
+MATPLOTLIB.PYPLOT (as plt)
+
+"""
+>>>matplotlib.interactive(True)              #checks weather the current system is in interative or non interactive mode
+>>>plt.ion()/ plt.ioff()                     #make interactive mode on/off
+"""
+
+
+'''
+>>>plt.plot([y1,y2,y3,y4...]                                    #plots the line joining (1,y1),(2,y2),(3,y3),(4,y4),....
+>>>plt.plot([x1,x2,x3,x4],[y1,y2,y3,y4],<kwargs> )              #plots a line joining points x1y1,x2y2,...
+/*
+  kwargs are:
+    color='r'/'green'/'#44aff'/'peach'...
+    label='sincurve'                           # will show as legend when used with plt.label
+    linestyle='--' / ':' / '-.'
+    linewidth=4
+    linestyle='None'                           # will not show line at all
+    marker='o' / '#' / '//' , '>', '<' ,...
+    markersize='8'
+    markerfacecolor
+    markeredgecolor
+    'r+'/'bo'/...                             # shortcut for blue dots or red circles...
+    markevery=0.05                            # will mark every  (0.05i, y) value
+*/
+
+'''
+
+"""
+>>>plt.xlabel('xlabel', fontsize=25, color='r')
+>>>plt.ylabel('ylabel', fontsize=15, color='b')
+>>>plt.legend()
+>>>plt.xlim(-10, 10)
+>>>plt.ylim(-3.5, 3.5)
+>>>plt.title('Various math graphs')
+>>>plt.xlabel('range')
+>>>plt.ylabel('value')
+>>>plt.xscale('log', basex=8) # we changed the x scale to the powers of 2
+
+
+
+"""
